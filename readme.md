@@ -1,5 +1,7 @@
 <h1>💫Chrisx04☄️</h1>
 
+<h1>Dark é gay</h1>
+
 <h2>Programador C#, C++, JAVA e LUA</h2>
 
 <p>Olá, meu nome é Chrisx04 sou programador.</p>
