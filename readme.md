@@ -1,7 +1,7 @@
 # 💫Chrisx04☄️
 <h1>Olá, meu nome é Chrisx040 sou pogramador, no meu tempo livre trabalho com engenharia reversa para jogos android.</h1>
 
-
+<h1>Programador C#, C++, JAVA, LUA</h1>
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discord.gg/3QMQp5kXcN) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC-wP9MCZTq4EX0_mvf_VWlw) 
 
